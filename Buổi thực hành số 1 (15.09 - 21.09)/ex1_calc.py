@@ -3,7 +3,7 @@
 print("Calculator Basic!")
 # Người dùng nhập số
 a = int(input("Mời bạn nhập số a: "))
-b = int(input("Mời bạn nhập số b: 123"))
+b = int(input("Mời bạn nhập số b: "))
 c = a + b
 
 # In ra kết quả
