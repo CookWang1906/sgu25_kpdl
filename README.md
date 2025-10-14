@@ -1,2 +1,3 @@
+# **SGU25 KHAI PHÁ DỮ LIỆU**
 
-this is homework everyweek , where we storage source code and relevant documents
+Repo này được dùng để nộp bài tập cá nhân cho học phần Khai phá dữ liệu do thầy Đỗ Như Tài làm giảng viên.
